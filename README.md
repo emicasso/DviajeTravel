@@ -8,7 +8,7 @@
 For learning purposes, i watched a video tutorial for creating a web page in ReactJS. It is responsive, use various functionalities from React and have and nice advanced CSS. 
 When i finished the tutorial, i decided to personalize the project with my criteria, images and content.
 
-##Live Demo
+### Live Demo
 * [Dviaje](https://dviaje.netlify.app)
 
 ## Starting 🚀
