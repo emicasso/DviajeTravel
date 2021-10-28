@@ -1,0 +1,22 @@
+footer{
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: normal;
+    bottom: 0;
+    width: 100%;
+}
+
+.icon {
+    color: white;
+    font-size: 35px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border-bottom: 4px solid transparent;
+}
+
+
+.icon:hover
+ {
+    border-color: white;
+    transition: all 0.3s;
+}
