@@ -36,22 +36,19 @@ function Footer() {
             <br />
             <a
               href="https://www.linkedin.com/in/emiliano-cassoni/"
-              target="_blank"
-              rel="noreferrer"
+             
             >
               <FontAwesomeIcon icon={faLinkedin} style={{ color: "#ffffff" }} className="icon"/>
             </a>
             <a
               href="https://github.com/emicasso"
-              target="_blank"
-              rel="noreferrer"
+            
             >
               <FontAwesomeIcon icon={faGithub} style={{ color: "#ffffff" }}  className="icon"/>
             </a>
             <a
               href="https://www.instagram.com/emicassoni/"
-              target="_blank"
-              rel="noreferrer"
+             
             >
               <FontAwesomeIcon
                 icon={faInstagram}
